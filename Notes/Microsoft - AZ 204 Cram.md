@@ -1,0 +1,16 @@
+---
+tags:
+  - Microsoft/Azure
+  - Certifications
+---
+- Configure availability alerts in Application Insights
+- Service Bus only stores up to 80GBs
+- App Service Entra Integration (for auth)
+	- ..and using manifest for 
+- Queries in Cosmos return JSON by default (at least for SQL api)
+- use PUTs and metadata query param and x-ms prefixed key/values for changes to storage blobs
+- EventHubs allow you to create partitions when streaming data to them to gropu data, you can optionally enable data capture and it will automatically route it to azure storage
+- use `az acr import` to import images from remote registries and publish as new images in your own
+- the start sym * in blob prefix filters is not a wild, its literal, prefix of `/contract` is laready a wild card implcicty matching everything that starts with contract... add `/contract/` to make it match only contract
+- ACI Container groups allow for sidecarl ike patterns
+- Dont use CosmosDB for session data, instead use Azure Cache Redis or something
