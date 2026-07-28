@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4c900120c5700f69",
+        "id": "dd597cfef96fee9d",
         "type": "tabs",
         "children": [
           {
-            "id": "4079aa89c2efadd1",
+            "id": "e3c07788d09a4c90",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Notes/SQL - HADR for SQL Server.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "SQL - HADR for SQL Server"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag: #Microsoft/Azure  ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -158,23 +161,13 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
-          },
-          {
-            "id": "a983b92988c88197",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,10 +182,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4079aa89c2efadd1",
+  "active": "e3c07788d09a4c90",
   "lastOpenFiles": [
-    "Notes/Azure - Database Migration.md",
-    "Notes/SQL - HADR for SQL Server.md",
-    "Notes/Azure - Migrate Overview.md"
+    "Notes/Git - Rebase.md",
+    "Notes/Azure - Region Design.md",
+    "Notes/Azure - HA Example.md",
+    "Notes/Azure - FortiGate Firewall APIM Flow.md",
+    "Notes/Azure - DNS Conditional Forwarding.md",
+    "Notes/Azure - Migrate Overview.md",
+    "Notes/Azure - Database Migration.md"
   ]
 }
