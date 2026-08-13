@@ -1,0 +1,4 @@
+- Adding Process is a Cardinal Sin
+- Blocking others is a Cardinal Sin
+- Everything is an Engineering Problem
+- Everything produced is a product
