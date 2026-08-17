@@ -6,7 +6,7 @@
 |                          US Citizen · Remote · Seattle, Washington                           |
 
 
-> Staff Platform Engineer who rescues stalled initiatives and turns them into platforms others adopt. 7+ years building cloud infrastructure across Azure, Kubernetes, AWS, and hybrid environments. Known for cross-functional influence—learning systems across business units, spotting inefficiencies, and rallying teams to solve them. Trusted advisor beyond formal scope, from engineers to executives. Technical focus: infrastructure as code, CI/CD, identity, security, FinOps, and developer experience.
+> Senior Platform Engineer who rescues stalled initiatives and turns them into platforms others adopt. 7+ years building cloud infrastructure across Azure, Kubernetes, AWS, and hybrid environments. Known for cross-functional influence—learning systems across business units, spotting inefficiencies, and rallying teams to solve them. Trusted advisor beyond formal scope, from engineers to executives. Technical focus: infrastructure as code, CI/CD, identity, security, FinOps, and developer experience.
 
 | Category | Technologies |
 | -------- | ------------ |
